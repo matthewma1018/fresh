@@ -10,10 +10,10 @@ baseurl: "/fresh" # the subpath of your site, e.g. /blog
 url: "https://matthewma1018.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
-facebook: "https://www.facebook.com/profile.php?id=100005709137217"
-twitter: "https://twitter.com/MatthewMa1018"
-google-plus: "https://plus.google.com/105499986736051877846"
-github: "https://github.com/matthewma1018"
+facebook: "profile.php?id=100005709137217"
+twitter: "MatthewMa1018"
+google-plus: "105499986736051877846"
+github: "matthewma1018"
 
 # Contact form
 email: #your-email@domain.com
